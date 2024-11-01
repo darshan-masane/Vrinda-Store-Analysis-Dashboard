@@ -45,7 +45,7 @@ Vrinda Store Annual Report project is to develop an interactive and visually eng
 - KPI: Refund Rate by Region
 - KPI: Canceled Orders by Channel and Region
 
-## Dashboard 
+## Dashboard Overview
 ![Screenshot 2024-11-01 120048.](https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Screenshot%202024-11-01%20120048.png)
 
 ## Project Process for Vrinda Store Analysis Dashboard
