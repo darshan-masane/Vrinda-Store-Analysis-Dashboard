@@ -3,10 +3,10 @@
 Vrinda Store Annual Report project is to develop an interactive and visually engaging Excel dashboard that provides actionable insights into the store's sales and order data.
 
 ## Dataset Used
-- <a herf="https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Assignment_dash.xlsx">Dataset</a>
+- <a href="https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Assignment_dash.xlsx">Dataset</a>
 
 ## Dashboard
-- <a herf='https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Screenshot%202024-11-01%20120048.png'>Dashboard</a>
+- <a href='https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Screenshot%202024-11-01%20120048.png'>Dashboard</a>
 
 ## Key Questions and KPIs for Vrinda Store Annual Report
 
