@@ -1,2 +1,3 @@
-# Vrinda-Store-Analysis-Dashboard
-This report provides a comprehensive overview of Vrinda Store’s sales distribution across different demographics, channels, and geographical locations, as well as an analysis of order status and customer segments. This can help in making data-driven decisions to improve marketing and operations strategies.
+#Vrinda-Store-Data-Analysis(Interactive Dashboard creation using MS Excel)
+##Project Objective
+Vrinda Store Annual Report project is to develop an interactive and visually engaging Excel dashboard that provides actionable insights into the store's sales and order data.
