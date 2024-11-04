@@ -53,6 +53,6 @@ Vrinda Store Annual Report project is to develop an interactive and visually eng
 - Data Cleaning and Preprocessing
 - Data Analysis
 - Data Visualization
-- Dashboard Design in Power BI
+- Dashboard Design in MS Excel
 - Testing and Validation
 - Documentation
