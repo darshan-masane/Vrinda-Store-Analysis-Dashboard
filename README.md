@@ -6,7 +6,7 @@
 # - <a href="https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Assignment_dash.xlsx">Dataset</a>
 
 ## Dashboard
-- <a href='https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Screenshot%202024-11-01%20120048.png'>Dashboard</a>
+# - <a href='https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Screenshot%202024-11-01%20120048.png'>Dashboard</a>
 
 ## Key Questions and KPIs for Vrinda Store Annual Report
 
