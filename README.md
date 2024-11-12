@@ -8,7 +8,7 @@
 ## Dashboard
 ## - <a href='https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Screenshot%202024-11-01%20120048.png'>Dashboard</a>
 
-## Key Questions and KPIs for Vrinda Store Annual Report
+## Key Questions and KPIs for Vrinda Store Annual Report:
 
 ### What are the monthly sales trends, and which months have the highest and lowest sales?
 - KPI: Monthly Sales Amount
