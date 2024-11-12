@@ -1,14 +1,14 @@
 # Vrinda-Store-Data-Analysis(Interactive Dashboard creation using MS Excel)
-## Project Objective
+## Project Objective:-
 #### Vrinda Store Annual Report project is to develop an interactive and visually engaging Excel dashboard that provides actionable insights into the store's sales and order data.
 
-## Dataset Used
+## Dataset Used:-
 ## - <a href="https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Assignment_dash.xlsx">Dataset</a>
 
-## Dashboard
+## Dashboard:-
 ## - <a href='https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Screenshot%202024-11-01%20120048.png'>Dashboard</a>
 
-## Key Questions and KPIs for Vrinda Store Annual Report:
+## Key Questions and KPIs for Vrinda Store Annual Report:-
 
 ### What are the monthly sales trends, and which months have the highest and lowest sales?
 - KPI: Monthly Sales Amount
@@ -48,7 +48,7 @@
 ## Dashboard Overview :-
 ![Screenshot 2024-11-01 120048.](https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Screenshot%202024-11-01%20120048.png)
 
-## Project Process for Vrinda Store Analysis Dashboard
+## Project Process for Vrinda Store Analysis Dashboard:-
 - Data Collection
 - Data Cleaning and Preprocessing
 - Data Analysis
